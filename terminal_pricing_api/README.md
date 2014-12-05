@@ -1,8 +1,8 @@
 # Preface
 
-This is the standard code test that we ask all of our candidates to complete. We are looking for clean, simple, testable, object-oriented code written in Java or Ruby. We ask that you don't use any external libraries to solve this problem; however, you may use external libraries or tools for build or testing purposes. 
+This is the standard code test that we ask all of our candidates to complete. We are looking for clean, simple, testable, object-oriented code written in Java, Ruby or Javascript. We ask that you don't use any external libraries to solve this problem; however, you may use external libraries or tools for build or testing purposes.
 
-Specifically, you may use a combination of JUnit, RUnit, Rspec, Bundler, Rake and Ant to assist your development. The test should be completed within 5 days, however you may request more time if necessary.
+Specifically, you may use a combination of JUnit, RUnit, Rspec, Karma, Jasmine, Mocha, Bundler, Rake, Grunt, Gulp and Ant to assist your development. The test should be completed within 5 days, however you may request more time if necessary.
 
 # Problem
 
